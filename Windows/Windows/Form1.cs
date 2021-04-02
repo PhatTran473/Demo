@@ -25,6 +25,12 @@ namespace Windows
         private void button1_Click(object sender, EventArgs e)
         {
             aaaa;
+            awaitaa
+                a
+                a
+                a
+                a
+                a
         }
     }
 }
